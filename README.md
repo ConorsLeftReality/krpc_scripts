@@ -1,0 +1,1 @@
+This is a GitHub repository for my kRPC scripts. Learn about kRPC here: https://krpc.github.io/krpc/latest/
